@@ -1,0 +1,17 @@
+{
+  "name": "Company-X-application",
+  "version": "1.0.0",
+  "description": "Company X application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.4",
+    "supertest": "^6.1.3"
+  }
+}
